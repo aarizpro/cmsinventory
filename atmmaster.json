@@ -1,0 +1,5826 @@
+[
+    {
+     "Code": "A1",
+     "AtmId": "P1ENCH26",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A2",
+     "AtmId": "P1ENCH30",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A3",
+     "AtmId": "P1ENCI28",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A4",
+     "AtmId": "P1ENCN14",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A5",
+     "AtmId": "P1ENCN70",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A6",
+     "AtmId": "P1EWCH07",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A7",
+     "AtmId": "P1EWCH08",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A8",
+     "AtmId": "P1EWCH68",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A9",
+     "AtmId": "P3ECCI05",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A10",
+     "AtmId": "P3ECCI06",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A11",
+     "AtmId": "P3ECCI07",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A12",
+     "AtmId": "P3ENCE19",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A13",
+     "AtmId": "P3ENCE34",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A14",
+     "AtmId": "P3ENCE45",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A15",
+     "AtmId": "P3ENCE53",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A16",
+     "AtmId": "P3ENCE62",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A17",
+     "AtmId": "P3ENCE63",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A18",
+     "AtmId": "P3ENCI51",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A19",
+     "AtmId": "P3ENCI62",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A20",
+     "AtmId": "P3ENCI69",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A21",
+     "AtmId": "P3ENCR14",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A22",
+     "AtmId": "P3ENCX06",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A23",
+     "AtmId": "P3ENCX15",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A24",
+     "AtmId": "P3ENCX40",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A25",
+     "AtmId": "P3ENCX64",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A26",
+     "AtmId": "P3ENCX74",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A27",
+     "AtmId": "P3ENMD19",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A28",
+     "AtmId": "P3FNCN14",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A29",
+     "AtmId": "P3FNCN23",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A30",
+     "AtmId": "S1ANTU24",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_5",
+     "RouteName": "HDFC AMBATTUR"
+    },
+    {
+     "Code": "A31",
+     "AtmId": "P1ENCH04",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A32",
+     "AtmId": "P1ENCH05",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A33",
+     "AtmId": "P1ENCH07",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A34",
+     "AtmId": "P1ENCH18",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A35",
+     "AtmId": "P1ENCH20",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A36",
+     "AtmId": "P1ENCH44",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A37",
+     "AtmId": "P1ENCI15",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A38",
+     "AtmId": "P1ENCI40",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A39",
+     "AtmId": "P1ENCI44",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A40",
+     "AtmId": "P1ENCN50",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A41",
+     "AtmId": "P1ENCN57",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A42",
+     "AtmId": "P1EWCH55",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A43",
+     "AtmId": "P3ECCI09",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A44",
+     "AtmId": "P3ENCE03",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A45",
+     "AtmId": "P3ENCI12",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A46",
+     "AtmId": "P3ENCI82",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A47",
+     "AtmId": "P3ENCR28",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A48",
+     "AtmId": "P3ENCR67",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A49",
+     "AtmId": "P3ENCX58",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A50",
+     "AtmId": "P3ENCX62",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A51",
+     "AtmId": "P3ENCX63",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A52",
+     "AtmId": "P3ENMD18",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A53",
+     "AtmId": "P3FNCN03",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A54",
+     "AtmId": "P3FNCN07",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A55",
+     "AtmId": "S1ANCF38",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_7",
+     "RouteName": "HDFC AYANAVARAM"
+    },
+    {
+     "Code": "A56",
+     "AtmId": "P1ENCH48",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A57",
+     "AtmId": "P1ENCH73",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A58",
+     "AtmId": "P1ENCI29",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A59",
+     "AtmId": "P1ENCN32",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A60",
+     "AtmId": "P3ENCE17",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A61",
+     "AtmId": "P3ENCE44",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A62",
+     "AtmId": "P3ENCI16",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A63",
+     "AtmId": "P3ENCI52",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A64",
+     "AtmId": "P3ENCI53",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A65",
+     "AtmId": "P3ENCI77",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A66",
+     "AtmId": "P3ENCX03",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A67",
+     "AtmId": "P3ENCX10",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A68",
+     "AtmId": "P3ENMD39",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A69",
+     "AtmId": "P3ENMD43",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A70",
+     "AtmId": "P3ENMD74",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A71",
+     "AtmId": "P3ENMD82",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A72",
+     "AtmId": "P3ENMD90",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A73",
+     "AtmId": "P3ENMD97",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A74",
+     "AtmId": "P3FNCN05",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A75",
+     "AtmId": "S1ANCF23",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A76",
+     "AtmId": "S1AWCB13",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_8",
+     "RouteName": "HDFC CHENGALPET"
+    },
+    {
+     "Code": "A77",
+     "AtmId": "P1ENCH64",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A78",
+     "AtmId": "P1ENCH74",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A79",
+     "AtmId": "P1ENCN06",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A80",
+     "AtmId": "P1ENCN07",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A81",
+     "AtmId": "P1ENCN38",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A82",
+     "AtmId": "P1ENCN68",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A83",
+     "AtmId": "P3ECCI03",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A84",
+     "AtmId": "P3ECCI04",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A85",
+     "AtmId": "P3ENCI66",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A86",
+     "AtmId": "P3ENCS07",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A87",
+     "AtmId": "P3ENCX60",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A88",
+     "AtmId": "P3ENMD40",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A89",
+     "AtmId": "P3FNCN04",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A90",
+     "AtmId": "P3FNCN20",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A91",
+     "AtmId": "P3FNCN26",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A92",
+     "AtmId": "S1ACCI43",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A93",
+     "AtmId": "S1ANCE52",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A94",
+     "AtmId": "S1ANCE71",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A95",
+     "AtmId": "S1ANCF54",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A96",
+     "AtmId": "S1ANCF76",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A97",
+     "AtmId": "S1ANCH45",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A98",
+     "AtmId": "S1ANCN94",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A99",
+     "AtmId": "S1AWCB12",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A100",
+     "AtmId": "S1AWCB68",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_9",
+     "RouteName": "HDFC CHROMPET"
+    },
+    {
+     "Code": "A101",
+     "AtmId": "P1ENCH35",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A102",
+     "AtmId": "P1ENCH54",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A103",
+     "AtmId": "P1ENCN33",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A104",
+     "AtmId": "P1ENCN36",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A105",
+     "AtmId": "P1ENCN37",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A106",
+     "AtmId": "P1ENCN72",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A107",
+     "AtmId": "P1ENTP06",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A108",
+     "AtmId": "P3ENCE75",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A109",
+     "AtmId": "P3ENCI15",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A110",
+     "AtmId": "P3ENCI64",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A111",
+     "AtmId": "P3ENCI68",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A112",
+     "AtmId": "P3ENCR13",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A113",
+     "AtmId": "P3ENCR43",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A114",
+     "AtmId": "P3ENCR88",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A115",
+     "AtmId": "P3ENCR96",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A116",
+     "AtmId": "P3ENCX17",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A117",
+     "AtmId": "P3ENCX65",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A118",
+     "AtmId": "P3EWCI03",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A119",
+     "AtmId": "P3FNCN02",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_10",
+     "RouteName": "HDFC LOCAL"
+    },
+    {
+     "Code": "A120",
+     "AtmId": "P3CNCN01",
+     "MspAccount": "CMS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A121",
+     "AtmId": "P3CNCN02",
+     "MspAccount": "CMS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A122",
+     "AtmId": "P3CNCN03",
+     "MspAccount": "CMS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A123",
+     "AtmId": "P1ENCH88",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A124",
+     "AtmId": "P1ENCI10",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A125",
+     "AtmId": "P1ENCI48",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A126",
+     "AtmId": "P1EWCH20",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A127",
+     "AtmId": "P1EWCH25",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A128",
+     "AtmId": "P3ECCI13",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A129",
+     "AtmId": "P3ENCE51",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A130",
+     "AtmId": "P3ENCE55",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A131",
+     "AtmId": "P3ENCE64",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A132",
+     "AtmId": "P3ENCE71",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A133",
+     "AtmId": "P3ENCI59",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A134",
+     "AtmId": "P3ENCI63",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A135",
+     "AtmId": "P3ENCR10",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A136",
+     "AtmId": "P3ENCR64",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A137",
+     "AtmId": "P3ENCR77",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A138",
+     "AtmId": "P3ENCX71",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A139",
+     "AtmId": "P3ENMD94",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A140",
+     "AtmId": "P3EWCH82",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A141",
+     "AtmId": "S1ACLU01",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A142",
+     "AtmId": "S1ANLD79",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A143",
+     "AtmId": "S1ANTU37",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_11",
+     "RouteName": "HDFC MADIPAKKAM"
+    },
+    {
+     "Code": "A144",
+     "AtmId": "P1ENCI33",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A145",
+     "AtmId": "P1ENCI42",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A146",
+     "AtmId": "P1ENCN40",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A147",
+     "AtmId": "P1EWTP02",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A148",
+     "AtmId": "P3ENCE08",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A149",
+     "AtmId": "P3ENCE10",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A150",
+     "AtmId": "P3ENCE21",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A151",
+     "AtmId": "P3ENCE24",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A152",
+     "AtmId": "P3ENCE35",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A153",
+     "AtmId": "P3ENCE79",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A154",
+     "AtmId": "P3ENCE83",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A155",
+     "AtmId": "P3ENCE86",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A156",
+     "AtmId": "P3ENCE89",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A157",
+     "AtmId": "P3ENCI38",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A158",
+     "AtmId": "P3ENCI83",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A159",
+     "AtmId": "P3ENCI94",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A160",
+     "AtmId": "P3ENCR73",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A161",
+     "AtmId": "P3ENCX38",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A162",
+     "AtmId": "P3FNCN06",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A163",
+     "AtmId": "P3FNCN16",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A164",
+     "AtmId": "S1ACCN44",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A165",
+     "AtmId": "S1ANCF94",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A166",
+     "AtmId": "S1AWCB11",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A167",
+     "AtmId": "S1AWCB38",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_23",
+     "RouteName": "HDFC Medavakkam"
+    },
+    {
+     "Code": "A168",
+     "AtmId": "P1ENCH33",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A169",
+     "AtmId": "P1ENCH85",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A170",
+     "AtmId": "P1ENCN58",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A171",
+     "AtmId": "P1ENTP07",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A172",
+     "AtmId": "P3ENCE01",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A173",
+     "AtmId": "P3ENCE23",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A174",
+     "AtmId": "P3ENCE49",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A175",
+     "AtmId": "P3ENCE67",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A176",
+     "AtmId": "P3ENCE69",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A177",
+     "AtmId": "P3ENCE78",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A178",
+     "AtmId": "P3ENCI10",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A179",
+     "AtmId": "P3ENCI39",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A180",
+     "AtmId": "P3ENCI41",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A181",
+     "AtmId": "P3ENCI95",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A182",
+     "AtmId": "P3ENCR44",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A183",
+     "AtmId": "P3ENCR71",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A184",
+     "AtmId": "P3ENCR76",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A185",
+     "AtmId": "P3ENCS03",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A186",
+     "AtmId": "P3ENCS09",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A187",
+     "AtmId": "P3ENCS12",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A188",
+     "AtmId": "P3FNCN25",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A189",
+     "AtmId": "S1ACCB66",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A190",
+     "AtmId": "S1AWCB30",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A191",
+     "AtmId": "S1AWCB66",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A192",
+     "AtmId": "S1AWCB73",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_12",
+     "RouteName": "HDFC OMR"
+    },
+    {
+     "Code": "A193",
+     "AtmId": "P1ENCH22",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A194",
+     "AtmId": "P1ENCH37",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A195",
+     "AtmId": "P1ENCH81",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A196",
+     "AtmId": "P1ENCN53",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A197",
+     "AtmId": "P1EWCH39",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A198",
+     "AtmId": "P3ENCE13",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A199",
+     "AtmId": "P3ENCE54",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A200",
+     "AtmId": "P3ENCE92",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A201",
+     "AtmId": "P3ENCI22",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A202",
+     "AtmId": "P3ENCI70",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A203",
+     "AtmId": "P3ENCI73",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A204",
+     "AtmId": "P3ENCR85",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A205",
+     "AtmId": "P3ENCX39",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A206",
+     "AtmId": "P3ENMD41",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A207",
+     "AtmId": "P3FNCN76",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A208",
+     "AtmId": "S1ACBA89",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A209",
+     "AtmId": "S1ANCA02",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A210",
+     "AtmId": "S1ANCF68",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A211",
+     "AtmId": "S1ANCF98",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A212",
+     "AtmId": "S1ANCT95",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A213",
+     "AtmId": "S1ANTU01",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A214",
+     "AtmId": "S1ANTU48",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A215",
+     "AtmId": "S1AWCB65",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_13",
+     "RouteName": "HDFC OORAPAKKAM"
+    },
+    {
+     "Code": "A216",
+     "AtmId": "P1ENCH50",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A217",
+     "AtmId": "P1ENCH57",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A218",
+     "AtmId": "P1ENCN79",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A219",
+     "AtmId": "P3ECTB01",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A220",
+     "AtmId": "P3ENCE11",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A221",
+     "AtmId": "P3ENCE43",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A222",
+     "AtmId": "P3ENCI11",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A223",
+     "AtmId": "P3ENCI20",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A224",
+     "AtmId": "P3ENCR20",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A225",
+     "AtmId": "P3ENCX16",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A226",
+     "AtmId": "P3ENCX19",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A227",
+     "AtmId": "P3ENCX26",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A228",
+     "AtmId": "P3ENMD70",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A229",
+     "AtmId": "P3FNCN22",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A230",
+     "AtmId": "P3FNCN55",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A231",
+     "AtmId": "S1ACCI75",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A232",
+     "AtmId": "S1ACCN28",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A233",
+     "AtmId": "S1ACCN47",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A234",
+     "AtmId": "S1ACCN70",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A235",
+     "AtmId": "S1ANCN49",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A236",
+     "AtmId": "S1ANCN96",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A237",
+     "AtmId": "S1ANMA10",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A238",
+     "AtmId": "S1AWCB39",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A239",
+     "AtmId": "S1AWCH02",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A240",
+     "AtmId": "S1AWCI14",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_14",
+     "RouteName": "HDFC PALLAVARAM"
+    },
+    {
+     "Code": "A241",
+     "AtmId": "P1ENBL26",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A242",
+     "AtmId": "P1ENBL27",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A243",
+     "AtmId": "P1ENCI04",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A244",
+     "AtmId": "P1ENCI18",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A245",
+     "AtmId": "P3ENCI85",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A246",
+     "AtmId": "P3ENCI98",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A247",
+     "AtmId": "P3ENCR17",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A248",
+     "AtmId": "P3ENCR92",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A249",
+     "AtmId": "P3ENMD20",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A250",
+     "AtmId": "P3ENMD58",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A251",
+     "AtmId": "S1ACCB20",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A252",
+     "AtmId": "S1ACCB67",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A253",
+     "AtmId": "S1ACCN60",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A254",
+     "AtmId": "S1ACCN78",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A255",
+     "AtmId": "S1ACMD31",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A256",
+     "AtmId": "S1ANCE68",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A257",
+     "AtmId": "S1ANCH42",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A258",
+     "AtmId": "S1ANCH43",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A259",
+     "AtmId": "S1ANCI97",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A260",
+     "AtmId": "S1ANCN36",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A261",
+     "AtmId": "S1ANCN43",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A262",
+     "AtmId": "S1ANCN92",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A263",
+     "AtmId": "S1ANCN99",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A264",
+     "AtmId": "S1ANCT89",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A265",
+     "AtmId": "S1ANMD58",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A266",
+     "AtmId": "S1ANMD63",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A267",
+     "AtmId": "S1ANTU38",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A268",
+     "AtmId": "S1AWCB49",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A269",
+     "AtmId": "S1AWCH01",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A270",
+     "AtmId": "S1AWCI28",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_15",
+     "RouteName": "HDFC PARRYS"
+    },
+    {
+     "Code": "A271",
+     "AtmId": "P1ECCH02",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A272",
+     "AtmId": "P1ENCH06",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A273",
+     "AtmId": "P1ENCH72",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A274",
+     "AtmId": "P1ENCI20",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A275",
+     "AtmId": "P1ENCI26",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A276",
+     "AtmId": "P1ENCN17",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A277",
+     "AtmId": "P1ENCN19",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A278",
+     "AtmId": "P1ENCN25",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A279",
+     "AtmId": "P1ENCN46",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A280",
+     "AtmId": "P1ENCN56",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A281",
+     "AtmId": "P1ENCN76",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A282",
+     "AtmId": "P1EWCH11",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A283",
+     "AtmId": "P3ECCI10",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A284",
+     "AtmId": "P3ENCE12",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A285",
+     "AtmId": "P3ENCE32",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A286",
+     "AtmId": "P3ENCE46",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A287",
+     "AtmId": "P3ENCE52",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A288",
+     "AtmId": "P3ENCR16",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A289",
+     "AtmId": "P3ENCR72",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A290",
+     "AtmId": "P3ENCS11",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A291",
+     "AtmId": "P3ENCX31",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A292",
+     "AtmId": "P3ENCX54",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A293",
+     "AtmId": "P3ENCX67",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A294",
+     "AtmId": "P3ENCX73",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A295",
+     "AtmId": "P3ENCX87",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A296",
+     "AtmId": "P3ENMD66",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A297",
+     "AtmId": "P3ENMD72",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A298",
+     "AtmId": "P3ENMD93",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A299",
+     "AtmId": "P3FNCN12",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A300",
+     "AtmId": "P3FNCN28",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_16",
+     "RouteName": "HDFC PERAMBUR"
+    },
+    {
+     "Code": "A301",
+     "AtmId": "'1283E038",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A302",
+     "AtmId": "1283EP05",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A303",
+     "AtmId": "1283EP07",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A304",
+     "AtmId": "1283EP11",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A305",
+     "AtmId": "1283EP33",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A306",
+     "AtmId": "'2143E002",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A307",
+     "AtmId": "P1ENCH14",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A308",
+     "AtmId": "P1ENCN71",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A309",
+     "AtmId": "P3ENCE41",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A310",
+     "AtmId": "P3ENCE84",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A311",
+     "AtmId": "P3ENCE85",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A312",
+     "AtmId": "P3ENCI67",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A313",
+     "AtmId": "P3ENCI72",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A314",
+     "AtmId": "P3ENCR19",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A315",
+     "AtmId": "P3ENCS06",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A316",
+     "AtmId": "P3ENCX09",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A317",
+     "AtmId": "P3ENCX35",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A318",
+     "AtmId": "P3ENCX47",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A319",
+     "AtmId": "P3ENCX61",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A320",
+     "AtmId": "P3FNCN01",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A321",
+     "AtmId": "P3FNCN09",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A322",
+     "AtmId": "P3FNCN21",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A323",
+     "AtmId": "P3FNCN24",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A324",
+     "AtmId": "P3FNCN34",
+     "MspAccount": "FSS",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A325",
+     "AtmId": "S1ACCB19",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A326",
+     "AtmId": "S1ANCN50",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A327",
+     "AtmId": "S1ANCN66",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_17",
+     "RouteName": "HDFC PORUR"
+    },
+    {
+     "Code": "A328",
+     "AtmId": "P1ENCH58",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A329",
+     "AtmId": "P1ENCH82",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A330",
+     "AtmId": "P1ENCH83",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A331",
+     "AtmId": "P1ENCH93",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A332",
+     "AtmId": "P1ENCH94",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A333",
+     "AtmId": "P1ENCI02",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A334",
+     "AtmId": "P1ENCI31",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A335",
+     "AtmId": "P1ENCN28",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A336",
+     "AtmId": "P1EWCH51",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A337",
+     "AtmId": "P1EWCH79",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A338",
+     "AtmId": "P3ENCE73",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A339",
+     "AtmId": "P3ENCI91",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A340",
+     "AtmId": "P3ENCI92",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A341",
+     "AtmId": "P3ENCI93",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A342",
+     "AtmId": "P3ENCR11",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A343",
+     "AtmId": "P3ENCR38",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A344",
+     "AtmId": "P3ENCX36",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A345",
+     "AtmId": "P3ENCX85",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A346",
+     "AtmId": "P3ENCX86",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A347",
+     "AtmId": "P3ENMD68",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A348",
+     "AtmId": "P3ENMD92",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A349",
+     "AtmId": "P3ENTV06",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_18",
+     "RouteName": "HDFC REDHILLS"
+    },
+    {
+     "Code": "A350",
+     "AtmId": "P1ENCH10",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A351",
+     "AtmId": "P1ENCH16",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A352",
+     "AtmId": "P1ENCI30",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A353",
+     "AtmId": "P1ENCN05",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A354",
+     "AtmId": "P1ENCN09",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A355",
+     "AtmId": "P1ENCN23",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A356",
+     "AtmId": "P1ENCN34",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A357",
+     "AtmId": "P1ENCN42",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A358",
+     "AtmId": "P1ENCN63",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A359",
+     "AtmId": "P1ENCN65",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A360",
+     "AtmId": "P1ENCN66",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A361",
+     "AtmId": "P3ENCE42",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A362",
+     "AtmId": "P3ENCR81",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A363",
+     "AtmId": "P3ENCR93",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A364",
+     "AtmId": "P3ENCS15",
+     "MspAccount": "EURO",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A365",
+     "AtmId": "S1ACCB51",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A366",
+     "AtmId": "S1ACCN30",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A367",
+     "AtmId": "S1ACCN68",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A368",
+     "AtmId": "S1ANCE17",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A369",
+     "AtmId": "S1ANCE79",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A370",
+     "AtmId": "S1ANCF96",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A371",
+     "AtmId": "S1ANCI05",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A372",
+     "AtmId": "S1ANCN20",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A373",
+     "AtmId": "S1ANLD26",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A374",
+     "AtmId": "S1ANNB04",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A375",
+     "AtmId": "S1ANTU07",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A376",
+     "AtmId": "S1ANTU39",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A377",
+     "AtmId": "S1AWCI01",
+     "MspAccount": "NCR",
+     "BankCode": "HDFC",
+     "Route": "CHE_CHE_20",
+     "RouteName": "HDFC T.NAGAR"
+    },
+    {
+     "Code": "A378",
+     "AtmId": "SCCNS884",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A379",
+     "AtmId": "U1BL000956185",
+     "MspAccount": "CMS",
+     "BankCode": "SBI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A380",
+     "AtmId": "6831002",
+     "MspAccount": "CMS",
+     "BankCode": "SIB",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A381",
+     "AtmId": "1283EP12",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A382",
+     "AtmId": "1283EP13",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A383",
+     "AtmId": "1283EP14",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A384",
+     "AtmId": "1283EP24",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A385",
+     "AtmId": "1283EP32",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A386",
+     "AtmId": "1283EP37",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A387",
+     "AtmId": "'2143E018",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A388",
+     "AtmId": "A867",
+     "MspAccount": "EURO",
+     "BankCode": "HSBC",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A389",
+     "AtmId": "SECNG161",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A390",
+     "AtmId": "SECNG298",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A391",
+     "AtmId": "SECNG316",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A392",
+     "AtmId": "SECNH505",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A393",
+     "AtmId": "SECNJ037",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A394",
+     "AtmId": "SECNL254",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A395",
+     "AtmId": "SECNM857",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A396",
+     "AtmId": "SECPT137",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A397",
+     "AtmId": "RE349001",
+     "MspAccount": "EURO",
+     "BankCode": "RBL",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A398",
+     "AtmId": "RE362001",
+     "MspAccount": "EURO",
+     "BankCode": "RBL",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A399",
+     "AtmId": "RE440001",
+     "MspAccount": "EURO",
+     "BankCode": "RBL",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A400",
+     "AtmId": "SINC4008",
+     "MspAccount": "EURO",
+     "BankCode": "SCB",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A401",
+     "AtmId": "SINC4248",
+     "MspAccount": "EURO",
+     "BankCode": "SCB",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A402",
+     "AtmId": "S1CNP006",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A403",
+     "AtmId": "S1CNP483",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A404",
+     "AtmId": "S1CNQ619",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A405",
+     "AtmId": "SPCND186",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A406",
+     "AtmId": "SPCNF395",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A407",
+     "AtmId": "SPCPT406",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A408",
+     "AtmId": "SPCPU008",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_1",
+     "RouteName": "ADYAR"
+    },
+    {
+     "Code": "A409",
+     "AtmId": "SCCNQ968",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A410",
+     "AtmId": "'1283E014",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A411",
+     "AtmId": "'2143E010",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A412",
+     "AtmId": "'2143E026",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A413",
+     "AtmId": "SECNJ046",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A414",
+     "AtmId": "RE187001",
+     "MspAccount": "EURO",
+     "BankCode": "RBL",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A415",
+     "AtmId": "RE187002",
+     "MspAccount": "EURO",
+     "BankCode": "RBL",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A416",
+     "AtmId": "RE399001",
+     "MspAccount": "EURO",
+     "BankCode": "RBL",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A417",
+     "AtmId": "RE437001",
+     "MspAccount": "EURO",
+     "BankCode": "RBL",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A418",
+     "AtmId": "SINC4084",
+     "MspAccount": "EURO",
+     "BankCode": "SCB",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A419",
+     "AtmId": "SINC4703",
+     "MspAccount": "EURO",
+     "BankCode": "SCB",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A420",
+     "AtmId": "SINC4740",
+     "MspAccount": "EURO",
+     "BankCode": "SCB",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A421",
+     "AtmId": "12837722",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A422",
+     "AtmId": "S1CNP609",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A423",
+     "AtmId": "S1CNQ670",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A424",
+     "AtmId": "SFCNM457",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A425",
+     "AtmId": "SFCNQ800",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A426",
+     "AtmId": "S1CNE531",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A427",
+     "AtmId": "S1CNI863",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A428",
+     "AtmId": "S1CNQ215",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A429",
+     "AtmId": "S1CNQ251",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A430",
+     "AtmId": "SPCNF132",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A431",
+     "AtmId": "SPCNF166",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A432",
+     "AtmId": "SPCNF178",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A433",
+     "AtmId": "SPCNG940",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A434",
+     "AtmId": "SPCNJ339",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A435",
+     "AtmId": "SPCNL218",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A436",
+     "AtmId": "SPCPT447",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A437",
+     "AtmId": "SPCPT448",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A438",
+     "AtmId": "SPCPT593",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A439",
+     "AtmId": "T1BH003303435",
+     "MspAccount": "HIT",
+     "BankCode": "SBI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A440",
+     "AtmId": "T1NY003303404",
+     "MspAccount": "HIT",
+     "BankCode": "SBI",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A441",
+     "AtmId": "CUB02513",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A442",
+     "AtmId": "CUB02514",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A443",
+     "AtmId": "CUB02515",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_2",
+     "RouteName": "ANNA NAGAR"
+    },
+    {
+     "Code": "A444",
+     "AtmId": "2911001",
+     "MspAccount": "CMS",
+     "BankCode": "SIB",
+     "Route": "CHE_CHEN_1",
+     "RouteName": "CHENGALPET"
+    },
+    {
+     "Code": "A445",
+     "AtmId": "2911002",
+     "MspAccount": "CMS",
+     "BankCode": "SIB",
+     "Route": "CHE_CHEN_1",
+     "RouteName": "CHENGALPET"
+    },
+    {
+     "Code": "A446",
+     "AtmId": "A1177610",
+     "MspAccount": "HIT",
+     "BankCode": "PNB",
+     "Route": "CHE_CHEN_1",
+     "RouteName": "CHENGALPET"
+    },
+    {
+     "Code": "A447",
+     "AtmId": "D4177610",
+     "MspAccount": "HIT",
+     "BankCode": "PNB",
+     "Route": "CHE_CHEN_1",
+     "RouteName": "CHENGALPET"
+    },
+    {
+     "Code": "A448",
+     "AtmId": "2080649",
+     "MspAccount": "NCR",
+     "BankCode": "DBS",
+     "Route": "CHE_CHEN_1",
+     "RouteName": "CHENGALPET"
+    },
+    {
+     "Code": "A449",
+     "AtmId": "2080888",
+     "MspAccount": "NCR",
+     "BankCode": "DBS",
+     "Route": "CHE_CHEN_1",
+     "RouteName": "CHENGALPET"
+    },
+    {
+     "Code": "A450",
+     "AtmId": "S1AC0163201",
+     "MspAccount": "NCR",
+     "BankCode": "KVB",
+     "Route": "CHE_CHEN_1",
+     "RouteName": "CHENGALPET"
+    },
+    {
+     "Code": "A451",
+     "AtmId": "SCCNS883",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A452",
+     "AtmId": "SCCNS885",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A453",
+     "AtmId": "SCCPU212",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A454",
+     "AtmId": "SCVDQ959",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A455",
+     "AtmId": "SCVDR309",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A456",
+     "AtmId": "1283EP08",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A457",
+     "AtmId": "1283EP17",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A458",
+     "AtmId": "'2143E028",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A459",
+     "AtmId": "A864",
+     "MspAccount": "EURO",
+     "BankCode": "HSBC",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A460",
+     "AtmId": "SECNJ060",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A461",
+     "AtmId": "SECNM825",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A462",
+     "AtmId": "SECNM856",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A463",
+     "AtmId": "SECNM859",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A464",
+     "AtmId": "S1CNR759",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A465",
+     "AtmId": "SFCNM648",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A466",
+     "AtmId": "SPCND023",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A467",
+     "AtmId": "CUB01343",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A468",
+     "AtmId": "CUB01394",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A469",
+     "AtmId": "CUB02728",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A470",
+     "AtmId": "CUBFI043",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A471",
+     "AtmId": "CUBFI902",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A472",
+     "AtmId": "CUBFI940",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A473",
+     "AtmId": "CUBFI994",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_3",
+     "RouteName": "GUDUVANCHERRY"
+    },
+    {
+     "Code": "A474",
+     "AtmId": "SCCPU281",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A475",
+     "AtmId": "SCCPU540",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A476",
+     "AtmId": "'1283E024",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A477",
+     "AtmId": "1283EP01",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A478",
+     "AtmId": "1283EP06",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A479",
+     "AtmId": "1283EP09",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A480",
+     "AtmId": "1283EP26",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A481",
+     "AtmId": "1283EP36",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A482",
+     "AtmId": "'2143E005",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A483",
+     "AtmId": "'2143E019",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A484",
+     "AtmId": "'2143E021",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A485",
+     "AtmId": "'2143E022",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A486",
+     "AtmId": "'2143E034",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A487",
+     "AtmId": "SECNL248",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A488",
+     "AtmId": "SECNM741",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A489",
+     "AtmId": "RE394001",
+     "MspAccount": "EURO",
+     "BankCode": "RBL",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A490",
+     "AtmId": "12837052",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A491",
+     "AtmId": "12837452",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A492",
+     "AtmId": "12837720",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A493",
+     "AtmId": "12837832",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A494",
+     "AtmId": "12837836",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A495",
+     "AtmId": "12837838",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A496",
+     "AtmId": "S1CNE497",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A497",
+     "AtmId": "SFCNM605",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A498",
+     "AtmId": "SFCNM651",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A499",
+     "AtmId": "SFCNQ831",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A500",
+     "AtmId": "S1CNP058",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A501",
+     "AtmId": "SPCNF215",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_21",
+     "RouteName": "K.K.NAGAR"
+    },
+    {
+     "Code": "A502",
+     "AtmId": "SCCNQ974",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A503",
+     "AtmId": "SCCNT055",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A504",
+     "AtmId": "SCVDL398",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A505",
+     "AtmId": "'1283E012",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A506",
+     "AtmId": "'1283E025",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A507",
+     "AtmId": "'1283E039",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A508",
+     "AtmId": "'1283E042",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A509",
+     "AtmId": "1283EP20",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A510",
+     "AtmId": "1283EP21",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A511",
+     "AtmId": "1283EP34",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A512",
+     "AtmId": "'2143E007",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A513",
+     "AtmId": "'2143E008",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A514",
+     "AtmId": "'2143E009",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A515",
+     "AtmId": "'2143E013",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A516",
+     "AtmId": "'2143E023",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A517",
+     "AtmId": "SECNG151",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A518",
+     "AtmId": "SECNJ043",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A519",
+     "AtmId": "SECNL308",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A520",
+     "AtmId": "SECNM803",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A521",
+     "AtmId": "SECPR557",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A522",
+     "AtmId": "RE392001",
+     "MspAccount": "EURO",
+     "BankCode": "RBL",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A523",
+     "AtmId": "12837146",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A524",
+     "AtmId": "12837763",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A525",
+     "AtmId": "12837793",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A526",
+     "AtmId": "S1CNE485",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A527",
+     "AtmId": "S1CNE488",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A528",
+     "AtmId": "SPCNJ386",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A529",
+     "AtmId": "SPCNL169",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A530",
+     "AtmId": "CUB02523",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_24",
+     "RouteName": "MADIPPAKKAM"
+    },
+    {
+     "Code": "A531",
+     "AtmId": "SCCNQ967",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A532",
+     "AtmId": "SCCNT070",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A533",
+     "AtmId": "'2143E006",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A534",
+     "AtmId": "'2143E015",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A535",
+     "AtmId": "'2143E017",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A536",
+     "AtmId": "S1CNI186",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A537",
+     "AtmId": "S1CNR774",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A538",
+     "AtmId": "S1CNR975",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A539",
+     "AtmId": "SPCNF374",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A540",
+     "AtmId": "SPCNI968",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A541",
+     "AtmId": "SPCNK736",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A542",
+     "AtmId": "SPCNK765",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A543",
+     "AtmId": "SPCNK773",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A544",
+     "AtmId": "SPCNL983",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A545",
+     "AtmId": "SPCNL997",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A546",
+     "AtmId": "SPCNR065",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A547",
+     "AtmId": "SPCPS697",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A548",
+     "AtmId": "SPCPS790",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A549",
+     "AtmId": "SPCPT377",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A550",
+     "AtmId": "SPCPT415",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A551",
+     "AtmId": "SPCPT577",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A552",
+     "AtmId": "SPCPT589",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A553",
+     "AtmId": "T1BY003303407",
+     "MspAccount": "HIT",
+     "BankCode": "SBI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A554",
+     "AtmId": "T1BY003303408",
+     "MspAccount": "HIT",
+     "BankCode": "SBI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A555",
+     "AtmId": "T1NH003303396",
+     "MspAccount": "HIT",
+     "BankCode": "SBI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A556",
+     "AtmId": "T1NY003303395",
+     "MspAccount": "HIT",
+     "BankCode": "SBI",
+     "Route": "CHE_CHE_25",
+     "RouteName": "MINJUR"
+    },
+    {
+     "Code": "A557",
+     "AtmId": "SCCNS873",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A558",
+     "AtmId": "SCCNS882",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A559",
+     "AtmId": "SCCPU210",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A560",
+     "AtmId": "DCB06024",
+     "MspAccount": "EURO",
+     "BankCode": "DCB",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A561",
+     "AtmId": "DEU0301",
+     "MspAccount": "EURO",
+     "BankCode": "DEUTCHE",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A562",
+     "AtmId": "A711",
+     "MspAccount": "EURO",
+     "BankCode": "HSBC",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A563",
+     "AtmId": "A715",
+     "MspAccount": "EURO",
+     "BankCode": "HSBC",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A564",
+     "AtmId": "SECNG198",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A565",
+     "AtmId": "SECNH526",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A566",
+     "AtmId": "SECNL320",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A567",
+     "AtmId": "SECNN660",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A568",
+     "AtmId": "SINC4011",
+     "MspAccount": "EURO",
+     "BankCode": "SCB",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A569",
+     "AtmId": "12837145",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A570",
+     "AtmId": "12837482",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A571",
+     "AtmId": "12837546",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A572",
+     "AtmId": "12837721",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A573",
+     "AtmId": "12837756",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A574",
+     "AtmId": "12837855",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A575",
+     "AtmId": "CUB02520",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A576",
+     "AtmId": "CUB02521",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A577",
+     "AtmId": "CUB02522",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_26",
+     "RouteName": "NUNGAMBAKKAM"
+    },
+    {
+     "Code": "A578",
+     "AtmId": "SCCNM916",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A579",
+     "AtmId": "SCCNQ986",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A580",
+     "AtmId": "SCCNR254",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A581",
+     "AtmId": "SCVDL376",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A582",
+     "AtmId": "SCVDL883",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A583",
+     "AtmId": "VA015704",
+     "MspAccount": "CMS",
+     "BankCode": "UCO",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A584",
+     "AtmId": "'1283E035",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A585",
+     "AtmId": "'1283E040",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A586",
+     "AtmId": "'1283E041",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A587",
+     "AtmId": "'2143E001",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A588",
+     "AtmId": "'2143E020",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A589",
+     "AtmId": "A700",
+     "MspAccount": "EURO",
+     "BankCode": "HSBC",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A590",
+     "AtmId": "SECNJ047",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A591",
+     "AtmId": "SECNL266",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A592",
+     "AtmId": "SECPR191",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A593",
+     "AtmId": "SECPR195",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A594",
+     "AtmId": "SECPS742",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A595",
+     "AtmId": "SINC4704",
+     "MspAccount": "EURO",
+     "BankCode": "SCB",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A596",
+     "AtmId": "12837845",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A597",
+     "AtmId": "12837846",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A598",
+     "AtmId": "12837851",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A599",
+     "AtmId": "S1CND889",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A600",
+     "AtmId": "SFCNM621",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A601",
+     "AtmId": "SFCNM652",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A602",
+     "AtmId": "SPCN7956",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A603",
+     "AtmId": "SPCPT658",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A604",
+     "AtmId": "SPCPT774",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A605",
+     "AtmId": "S1NW003303311",
+     "MspAccount": "HIT",
+     "BankCode": "SBI",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A606",
+     "AtmId": "CUB02720",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_28",
+     "RouteName": "PORUR"
+    },
+    {
+     "Code": "A607",
+     "AtmId": "2143EP01",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A608",
+     "AtmId": "SECNG156",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A609",
+     "AtmId": "SECNL264",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A610",
+     "AtmId": "RE343001",
+     "MspAccount": "EURO",
+     "BankCode": "RBL",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A611",
+     "AtmId": "RE384001",
+     "MspAccount": "EURO",
+     "BankCode": "RBL",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A612",
+     "AtmId": "12837528",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A613",
+     "AtmId": "12837757",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A614",
+     "AtmId": "12837762",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A615",
+     "AtmId": "12837764",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A616",
+     "AtmId": "12837795",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A617",
+     "AtmId": "12837871",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A618",
+     "AtmId": "12837897",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A619",
+     "AtmId": "SFCNM631",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A620",
+     "AtmId": "S1CNI175",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A621",
+     "AtmId": "S1CNI584",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A622",
+     "AtmId": "SPCNA537",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A623",
+     "AtmId": "SPCNF044",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A624",
+     "AtmId": "SPCNJ125",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A625",
+     "AtmId": "SPCNK732",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A626",
+     "AtmId": "SPCNK740",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A627",
+     "AtmId": "SPCNK767",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A628",
+     "AtmId": "SPCNL219",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A629",
+     "AtmId": "SPCNL998",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A630",
+     "AtmId": "SPCPT425",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A631",
+     "AtmId": "SPCPT596",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A632",
+     "AtmId": "SPCPT598",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A633",
+     "AtmId": "CUB01572",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A634",
+     "AtmId": "CUBFI566",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_29",
+     "RouteName": "PURASAIVAKKAM"
+    },
+    {
+     "Code": "A635",
+     "AtmId": "SCCNQ985",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A636",
+     "AtmId": "SCCNQ999",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A637",
+     "AtmId": "SCVDQ953",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A638",
+     "AtmId": "6291002",
+     "MspAccount": "CMS",
+     "BankCode": "SIB",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A639",
+     "AtmId": "'1283E037",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A640",
+     "AtmId": "1283EP03",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A641",
+     "AtmId": "1283EP22",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A642",
+     "AtmId": "1283EP25",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A643",
+     "AtmId": "1283EP27",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A644",
+     "AtmId": "1283EP28",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A645",
+     "AtmId": "1283EP29",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A646",
+     "AtmId": "1283EP30",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A647",
+     "AtmId": "1283EP31",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A648",
+     "AtmId": "1283EP35",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A649",
+     "AtmId": "'2143E016",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A650",
+     "AtmId": "SECNH493",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A651",
+     "AtmId": "SECNH503",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A652",
+     "AtmId": "SECNK760",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A653",
+     "AtmId": "SECNL238",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A654",
+     "AtmId": "SECNL262",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A655",
+     "AtmId": "SECNL283",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A656",
+     "AtmId": "SECNL313",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A657",
+     "AtmId": "SECNM744",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A658",
+     "AtmId": "SECNM786",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A659",
+     "AtmId": "12837527",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A660",
+     "AtmId": "12837847",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A661",
+     "AtmId": "12837850",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A662",
+     "AtmId": "12837854",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A663",
+     "AtmId": "SPCNH783",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A664",
+     "AtmId": "SPCNU663",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A665",
+     "AtmId": "SPCPT606",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_31",
+     "RouteName": "SBI TAMBARAM"
+    },
+    {
+     "Code": "A666",
+     "AtmId": "SCCNM917",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A667",
+     "AtmId": "SCCNT056",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A668",
+     "AtmId": "'2143E004",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A669",
+     "AtmId": "'2143E031",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A670",
+     "AtmId": "'2143E032",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A671",
+     "AtmId": "'2143E036",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A672",
+     "AtmId": "2143EP02",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A673",
+     "AtmId": "SECNM742",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A674",
+     "AtmId": "SECNM777",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A675",
+     "AtmId": "12837116",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A676",
+     "AtmId": "12837898",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A677",
+     "AtmId": "S1CNQ055",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A678",
+     "AtmId": "SFCNM542",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A679",
+     "AtmId": "SPCNR059",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A680",
+     "AtmId": "SPCPT354",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A681",
+     "AtmId": "SPCPT583",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A682",
+     "AtmId": "SPCPT602",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A683",
+     "AtmId": "SPCPT604",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A684",
+     "AtmId": "SPCPT605",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A685",
+     "AtmId": "T1BY003303425",
+     "MspAccount": "HIT",
+     "BankCode": "SBI",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A686",
+     "AtmId": "CUB02112",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_32",
+     "RouteName": "THIRUMULLAIVOYAL"
+    },
+    {
+     "Code": "A687",
+     "AtmId": "SCCNQ977",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A688",
+     "AtmId": "SCVDJ989",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A689",
+     "AtmId": "SCVDL374",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A690",
+     "AtmId": "SCVDL840",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A691",
+     "AtmId": "SCVDL882",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A692",
+     "AtmId": "SCVDL885",
+     "MspAccount": "CMS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A693",
+     "AtmId": "1283EP19",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A694",
+     "AtmId": "SECNH843",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A695",
+     "AtmId": "SECNL267",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A696",
+     "AtmId": "SECNM764",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A697",
+     "AtmId": "SECPR389",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A698",
+     "AtmId": "SECPS722",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A699",
+     "AtmId": "SECPS741",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A700",
+     "AtmId": "SEVDI946",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A701",
+     "AtmId": "12837539",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A702",
+     "AtmId": "S1CNR851",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A703",
+     "AtmId": "S1CNI560",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A704",
+     "AtmId": "SPCNJ124",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A705",
+     "AtmId": "SPCNL143",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A706",
+     "AtmId": "SPCPT384",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A707",
+     "AtmId": "CUBFI924",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_34",
+     "RouteName": "THIRUPORUR"
+    },
+    {
+     "Code": "A708",
+     "AtmId": "T1BW000800347",
+     "MspAccount": "CMS",
+     "BankCode": "SBI",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A709",
+     "AtmId": "421003",
+     "MspAccount": "CMS",
+     "BankCode": "SIB",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A710",
+     "AtmId": "1283EP16",
+     "MspAccount": "EPS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A711",
+     "AtmId": "A865",
+     "MspAccount": "EURO",
+     "BankCode": "HSBC",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A712",
+     "AtmId": "SECNG062",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A713",
+     "AtmId": "SECNG159",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A714",
+     "AtmId": "SECPS744",
+     "MspAccount": "EURO",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A715",
+     "AtmId": "RE186001",
+     "MspAccount": "EURO",
+     "BankCode": "RBL",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A716",
+     "AtmId": "12837792",
+     "MspAccount": "FSS",
+     "BankCode": "CANARA",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A717",
+     "AtmId": "S1CNR782",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A718",
+     "AtmId": "SFCNR220",
+     "MspAccount": "FSS",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A719",
+     "AtmId": "S1CNI559",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A720",
+     "AtmId": "SPCNI965",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A721",
+     "AtmId": "SPCNJ345",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A722",
+     "AtmId": "SPCNK743",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A723",
+     "AtmId": "SPCNL179",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A724",
+     "AtmId": "SPCNL988",
+     "MspAccount": "HIT",
+     "BankCode": "ICICI",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A725",
+     "AtmId": "CUB02516",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A726",
+     "AtmId": "CUB02517",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A727",
+     "AtmId": "CUB02518",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    },
+    {
+     "Code": "A728",
+     "AtmId": "CUB02519",
+     "MspAccount": "NCR",
+     "BankCode": "CUB",
+     "Route": "CHE_CHE_33",
+     "RouteName": "TONDAIRPET"
+    }
+   ]
