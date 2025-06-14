@@ -1,9 +1,10 @@
 const express = require("express");
 const router = express.Router();
-const {getCourierDetails,getCourierByField,getCourierDetail,createCourier,updateCourier,deleteCourier,getRouteDetails,getRouteDetailByName,getAtmCountByMspAndBank,getFilteredAtmCount,getDistinctFieldValues,getGroupedCounts}= require("../controller/atmMasterController");
+const {getCourierDetails,getEmployeeDetailsById,getCourierDetail,createCourier,updateCourier,deleteCourier,getRouteDetails,getRouteDetailByName,getAtmCountByMspAndBank,getFilteredAtmCount,getDistinctFieldValues,getGroupedCounts}= require("../controller/atmMasterController");
 
 router.get("/",getCourierDetails);
-router.get("/search",getCourierByField);
+router.get("/search",getEmployeeDetailsById);
+router.get("/search/:atmId",getEmployeeDetailsById);
 router.get("/routes",getRouteDetails);
 router.get("/routes/:id",getRouteDetailByName);
 router.get("/routes/:mspAccount/:bankCode",getAtmCountByMspAndBank);

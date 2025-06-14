@@ -5,6 +5,10 @@ const cors = require("cors");
 const connectDB = require("./db");
 const userRoutes = require("./routes/userRoutes")
 const atmMasterRoutes = require("./routes/atmMasterRoutes")
+const mainVaultRoutes = require("./routes/mainVaultLedgerRoutes")
+const employeeRoutes = require("./routes/employeeRoutes")
+const binRoutes = require("./routes/binMasterRoutes")
+const cmoLoadingRoutes = require("./routes/cmoLoadingRoutes");
 
 
 const app = express();
@@ -15,7 +19,10 @@ app.use(express.json());
 app.use(express.urlencoded({extended:false}));
 app.use("/api/users",userRoutes);
 app.use("/api/atm",atmMasterRoutes);
-
+app.use("/api/vault",mainVaultRoutes);
+app.use("/api/employee",employeeRoutes);
+app.use("/api/bin",binRoutes);
+app.use("/api/cmo", cmoLoadingRoutes);
 
 connectDB();
 

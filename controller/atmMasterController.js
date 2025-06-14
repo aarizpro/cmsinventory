@@ -64,24 +64,39 @@ const deleteCourier = asyncHandler(async(req,res)=>{
         throw new Error(error.message);
     }
 })
-const getCourierByField = asyncHandler(async(req,res)=>{
-    const {field,value}= req.query;
-    try {
-        if(!Array.isArray(field)||!Array.isArray(value)){
-            res.status(400).json({error:"Fields must be in Array"});
-            return;
-        }
-        const query ={};
-        field.forEach((f,index)=>{
-            query[f]= value[index];
-        });
-        const users = await CourierDetails.find(query);
-        res.json(users);
-    } catch (error) {
-        res.status(500).json({error:message})
-        
-    }
+const getEmployeeDetailsById = asyncHandler(async (req, res) => {
+  const atmId = req.params.atmId || req.query.atmId;
+  if (!atmId || atmId.trim() === "") {
+      return res.status(400).json({ error: "ATM ID is required." });
+  }
+
+  const employee = await CourierDetails.findOne({ atmId: atmId.trim() })
+      .select("atmId mspAccount bankCode atmCategory atmType model cashLoadingType routeCode routeName");
+
+  if (!employee) {
+      return res.status(404).json({ error: "Employee not found." });
+  }
+
+  res.status(200).json(employee);
 });
+// const getCourierByField = asyncHandler(async(req,res)=>{
+//     const {field,value}= req.query;
+//     try {
+//         if(!Array.isArray(field)||!Array.isArray(value)){
+//             res.status(400).json({error:"Fields must be in Array"});
+//             return;
+//         }
+//         const query ={};
+//         field.forEach((f,index)=>{
+//             query[f]= value[index];
+//         });
+//         const users = await CourierDetails.find(query);
+//         res.json(users);
+//     } catch (error) {
+//         res.status(500).json({error:message})
+        
+//     }
+// });
 const getRouteDetails = asyncHandler(async(req,res)=>{
     
     try {
@@ -104,6 +119,7 @@ const getRouteDetails = asyncHandler(async(req,res)=>{
         
     }
 });
+
 const getRouteDetailByName = asyncHandler(async (req, res) => {
     let { id } = req.params;
     try {
@@ -302,7 +318,7 @@ module.exports=
     createCourier,
     updateCourier,
     deleteCourier,
-    getCourierByField,
+    getEmployeeDetailsById,
     getCourierDetail,
     getRouteDetails,
     getRouteDetailByName,
