@@ -9,7 +9,7 @@ const mainVaultRoutes = require("./routes/mainVaultLedgerRoutes")
 const employeeRoutes = require("./routes/employeeRoutes")
 const binRoutes = require("./routes/binMasterRoutes")
 const cmoLoadingRoutes = require("./routes/cmoLoadingRoutes");
-
+const indentRoutes = require("./routes/indentRoutes");
 
 const app = express();
 
@@ -23,6 +23,7 @@ app.use("/api/vault",mainVaultRoutes);
 app.use("/api/employee",employeeRoutes);
 app.use("/api/bin",binRoutes);
 app.use("/api/cmo", cmoLoadingRoutes);
+app.use("/api/indents", indentRoutes);
 
 connectDB();
 
